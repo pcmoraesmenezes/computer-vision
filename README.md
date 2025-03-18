@@ -17,3 +17,6 @@ To use OCR, we need to:
 3. Pattern recognition
 
 4. Resourcing   
+
+One of the best OCR libraries is Tesseract, which is an open-source OCR engine developed by Google.
+
